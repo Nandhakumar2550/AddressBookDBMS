@@ -7,3 +7,4 @@ VALUES
 ('Arun', 'Raj', 'T Nagar', 'Chennai', 'Tamil Nadu', 600002, 9876543211, 'arun@gmail.com'),
 
 ('Kavin', 'M', 'MG Road', 'Bangalore', 'Karnataka', 560001, 9876543212, 'kavin@gmail.com');
+SELECT * FROM AddressBook;
